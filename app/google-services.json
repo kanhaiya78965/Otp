@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130060129307",
+    "project_id": "otp-verify-fca2d",
+    "storage_bucket": "otp-verify-fca2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130060129307:android:1c4fc6543428f46f8714be",
+        "android_client_info": {
+          "package_name": "kanhaiya.softwear.developer.otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130060129307-qsopq8even95odkhflqkda21cacgan23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjlPRR8y-wUbQqbxnucVSzpfBJ2ss4X58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130060129307-qsopq8even95odkhflqkda21cacgan23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
